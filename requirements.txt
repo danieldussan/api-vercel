@@ -1,4 +1,4 @@
 Flask
 jsonify
-request
+requests
 flask_mysqldb
