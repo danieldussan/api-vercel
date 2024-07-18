@@ -3,8 +3,8 @@ class DevelopmentConfig():
     
     # Mysql Connection 
     MYSQL_HOST = 'localhost' 
-    MYSQL_USER = 'root'
-    MYSQL_PASSWORD = ''
+    MYSQL_USER = 'daniel'
+    MYSQL_PASSWORD = 'Ddussan0409'
     MYSQL_DB = 'esp'
 
 config = {
